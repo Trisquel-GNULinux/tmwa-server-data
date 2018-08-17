@@ -1,0 +1,4 @@
+<?xml version="1.0"?><updates>
+<update type="data" file="TMW.zip" hash="cf865af"/>
+<update type="music" required="no" file="TMW-music.zip" hash="c1cff3e0" description="TMW music"/>
+</updates>
